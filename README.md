@@ -1,2 +1,2 @@
 # Lane-Detection
-A Convolutional Neural Network model to detect the lanes of the track that car moves between them with accuracy 94%.
+* A Convolutional Neural Network model to detect the lanes of the road ("to assist vehicular movements") with accuracy 94%.
